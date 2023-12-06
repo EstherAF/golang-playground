@@ -1,5 +1,8 @@
 {
     "files.exclude": {
         ".history": true
+    },
+    "go.delveConfig": {
+        "debugAdapter": "dlv-dap"
     }
 }
